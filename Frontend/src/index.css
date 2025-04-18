@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  background-color: rgb(168, 166, 166);
+}
+
+.box {
+  background-image: url(https://images.pexels.com/photos/31509765/pexels-photo-31509765/free-photo-of-starry-night-sky-over-bergerac-countryside.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+}
